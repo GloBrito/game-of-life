@@ -1,4 +1,4 @@
-# *Game of life*
+# *Game of life - Python*
 * Simulador de Autômatos Celulares
 
 ## E ai, bora aprender sobre jogo da vida e autômatos celulares?! 
